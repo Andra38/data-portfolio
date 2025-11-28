@@ -53,6 +53,7 @@ The dataset contains the following key variables:
 ## Conclusion
 This analysis provided useful segmentation of flights and evaluated delay predictors, informing scheduling strategies and highlighting areas for deeper analysis.
 
-
+## Code
+- [Flight Segmentation Analysis Script](flight logistic method.r)
 
 ## Visualizations

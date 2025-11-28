@@ -14,8 +14,12 @@ This project analyzes factors influencing sleep disorders using Excel. It includ
 
 ## Key Insights
 - Females reported more sleep disorders than males
+- Nurses had the most disorders, especial sleep alpena
+- BMI CATEGORY and Blood Pressure where the main factors that determine whether a participant had a disorder or not.
 - Higher stress levels correlated with shorter sleep duration
 - Age group 30–40 showed the highest prevalence of sleep disorders
 
 ## Screenshots
-(Add screenshots of your Excel analysis here)
+![Sleep Disorder](td.PNG)
+![Sleep Disorder](tFd.PNG)
+

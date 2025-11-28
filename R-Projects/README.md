@@ -55,5 +55,5 @@ This analysis provided useful segmentation of flights and evaluated delay predic
 
 ## Code
 - [Flight Segmentation Analysis Script](flight logistic method.r)
-
+- [Flight Segmentation Analysis Script](flight chi-square.r)
 ## Visualizations

@@ -56,6 +56,9 @@ This analysis provided useful segmentation of flights and evaluated delay predic
 ## Code
 - [Flight Segmentation Analysis Script](flight logistic method.r)
 - [Flight Segmentation Analysis Script](flight chi-square.r)
+- [Flight Segmentation Analysis Script](flight kmeans.r)
 ## Visualizations
 ### K means clustering
-![Clustering](flight optimal chart.PNG)
+! [Elbow method](flight optimal chart.PNG)
+! [Clustering](flight chart.PNG)
+

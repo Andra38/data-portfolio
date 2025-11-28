@@ -54,11 +54,11 @@ The dataset contains the following key variables:
 This analysis provided useful segmentation of flights and evaluated delay predictors, informing scheduling strategies and highlighting areas for deeper analysis.
 
 ## Code
-- [Flight Segmentation Analysis Script]((Project%201/flight logistic method.r)
-- [Flight Segmentation Analysis Script]((Project%201/flight chi-square.r)
-- [Flight Segmentation Analysis Script]((Project%201/flight kmeans.r)
+- [Flight Segmentation Analysis Script](Project%201/flight logistic method.r)
+- [Flight Segmentation Analysis Script](Project%201/flight chi-square.r)
+- [Flight Segmentation Analysis Script](Project%201/flight kmeans.r)
 ## Visualizations
 ### K means clustering
 ![Elbow method](Project%201/flight optimal chart.PNG)
-![Clustering]((Project%201/flight chart.PNG)
+![Clustering](Project%201/flight chart.PNG)
 

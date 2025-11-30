@@ -1,90 +1,97 @@
-Plus Bank Churn Analysis
+# Plus Bank Churn Analysis
 
-📌 Project Overview
+## Overview
+This repository contains a detailed churn analysis for *Plus Bank, based on a dataset of **1,000 customers* across *France, Germany, and Spain*.  
+The goal of this project is to understand the characteristics of customers who left the bank and identify patterns that can help improve customer retention.
 
-This project analyzes customer churn for Plus Bank, using data from 1,000 customers across France, Germany, and Spain.
-The aim is to identify the major drivers of churn and provide insights for improving customer retention.
-
-
----
-
-📊 Dataset Summary
-
-Total customers analyzed: 1,000
-
-Customers currently still banking with Plus Bank: 7,962 (overall bank-wide number)
-
-Average customer age: 39 years
-
-Regions covered: France, Germany, Spain
-
-
+All analysis, calculations, and visualizations were completed *using Microsoft Excel only*.
 
 ---
 
-🔍 Key Findings
-
-1. Demographics
-
-Majority of customers who churned were female.
-
-Most belonged to the Gen X age group (40–55 years).
-
-
-2. Account Information
-
-Churned customers had accounts for 8 to 10 years.
-
-Many held a medium account balance.
-
-Their credit scores were generally average to good — meaning creditworthiness was not a major churn driver.
-
-
-3. Product & Activity Insights
-
-Most churned customers owned more than 2 products.
-
-Many had credit cards.
-
-A significant portion were inactive members, indicating low engagement.
-
-Churned customers also had higher complaint frequency, signaling dissatisfaction.
-
-
+## Dataset Summary
+- *Total customers analyzed:* 1,000  
+- *Customers currently with Plus Bank (bank-wide):* 7,962  
+- *Average customer age:* 39 years  
+- *Countries represented:* France, Germany, Spain  
 
 ---
 
-🌍 Country Insights
+## Key Findings
 
-Plus Bank operates in France, Germany, and Spain.
-Churn patterns were similar across all three countries, although specific rates may vary.
-
+### 1. Demographic Insights
+- A large proportion of customers who churned were *female*.
+- Many belonged to the *Gen X age group* (approximately ages 40–55).
+- This suggests that middle-aged female customers may be at higher churn risk.
 
 ---
 
-🧾 Summary of Insights
+### 2. Account & Financial Characteristics
+- Most churned customers had their accounts for *8 to 10 years*.  
+  Long-term customers leaving may signal a *decline in satisfaction over time*.
+- They typically maintained *medium account balances*.
+- Their *credit scores were generally average or okay*, so creditworthiness was not a primary churn factor.
 
-Customers who churned tended to be:
+---
 
-Female
+### 3. Product & Engagement Insights
+- Many churned customers owned *more than 2 products*, meaning cross-selling did not prevent churn.
+- A high number owned *credit cards*.
+- The majority of churned customers were *inactive members, indicating **low engagement* was a major churn driver.
+- Churned customers recorded *higher complaint counts*, pointing to customer dissatisfaction and unresolved issues.
 
-Gen X
+---
 
-Long-term customers (8–10 years)
+## Visualizations (Excel)
 
-Medium balance holders
+The following visualizations were created using Excel to support the analysis:
 
-Owners of multiple products
+1. *Churn Distribution by Gender*  
+   A bar chart showing that more females churned than males.
 
-Credit card users
+2. *Churn by Age Group*  
+   A column chart highlighting that Gen X customers had the highest churn rate.
 
-Inactive members
+3. *Churn by Account Tenure*  
+   A line or bar chart showing increased churn among customers with 8–10 years of account history.
 
-Customers with more complaints
+4. *Churn by Number of Products Owned*  
+   A bar chart demonstrating that customers with more than 2 products were more likely to churn.
 
-🛠 Tools Used
+5. *Customer Activity Status vs Churn*  
+   A clustered bar chart showing churn was much higher among inactive members.
 
-Excel 
+6. *Complaints vs Churn Status*  
+   A comparison chart showing higher complaints among churned customers.
 
-Visualization tools (Excel charts )
+All charts were created directly in Excel using pivot tables and pivot charts.
 
+---
+
+## Summary of Insights
+The analysis shows that churn at Plus Bank is strongly associated with:
+- Female and Gen X customers  
+- Long-standing customers (8–10 years)  
+- Medium account balances  
+- Customers owning multiple products  
+- Credit card holders  
+- Inactive members  
+- Higher levels of complaints
+
+These findings suggest that Plus Bank could reduce churn by:
+- Improving customer engagement  
+- Responding faster to customer complaints  
+- Monitoring inactivity and reaching out proactively  
+- Creating tailored retention plans for long-term customers  
+
+---
+
+## Tools Used
+- *Microsoft Excel*  
+  - Data cleaning  
+  - Pivot tables  
+  - Descriptive analysis  
+  - Pivot charts and visualizations  
+
+---
+
+## Visualization

@@ -1,0 +1,90 @@
+Plus Bank Churn Analysis
+
+📌 Project Overview
+
+This project analyzes customer churn for Plus Bank, using data from 1,000 customers across France, Germany, and Spain.
+The aim is to identify the major drivers of churn and provide insights for improving customer retention.
+
+
+---
+
+📊 Dataset Summary
+
+Total customers analyzed: 1,000
+
+Customers currently still banking with Plus Bank: 7,962 (overall bank-wide number)
+
+Average customer age: 39 years
+
+Regions covered: France, Germany, Spain
+
+
+
+---
+
+🔍 Key Findings
+
+1. Demographics
+
+Majority of customers who churned were female.
+
+Most belonged to the Gen X age group (40–55 years).
+
+
+2. Account Information
+
+Churned customers had accounts for 8 to 10 years.
+
+Many held a medium account balance.
+
+Their credit scores were generally average to good — meaning creditworthiness was not a major churn driver.
+
+
+3. Product & Activity Insights
+
+Most churned customers owned more than 2 products.
+
+Many had credit cards.
+
+A significant portion were inactive members, indicating low engagement.
+
+Churned customers also had higher complaint frequency, signaling dissatisfaction.
+
+
+
+---
+
+🌍 Country Insights
+
+Plus Bank operates in France, Germany, and Spain.
+Churn patterns were similar across all three countries, although specific rates may vary.
+
+
+---
+
+🧾 Summary of Insights
+
+Customers who churned tended to be:
+
+Female
+
+Gen X
+
+Long-term customers (8–10 years)
+
+Medium balance holders
+
+Owners of multiple products
+
+Credit card users
+
+Inactive members
+
+Customers with more complaints
+
+🛠 Tools Used
+
+Excel 
+
+Visualization tools (Excel charts )
+

@@ -34,7 +34,7 @@ The dataset includes transaction records with the following features:
 - Scatter plot of clusters showing normal transactions and anomalies highlighted  
 - Distribution of distances to cluster centers with threshold marked  
   ![Anomaly Detection](cluster.png)
-  ![Anomaly Detection](result.PNG)
+  ![Anomaly Detection](results.PNG)
 
 ## Project Overview
 This project performs anomaly detection on transaction data using unsupervised learning techniques. The goal is to identify unusual transactions that deviate significantly from normal patterns based on transaction amount and time.

@@ -95,5 +95,5 @@ These findings suggest that Plus Bank could reduce churn by:
 ---
 
 ## Dashboards
-![]
-![]
+![Plus Bank Churn Analysis](plusbank.PNG)
+![Plus Bank Churn Analysis](tssv.PNG)

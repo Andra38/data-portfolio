@@ -37,8 +37,8 @@ This project provides an in-depth analysis of sales and customer behavior at VAL
 This analysis offered valuable insights into VALUE Nest Supermarket's sales dynamics and customer behavior. Leveraging these findings can help drive strategic decisions to improve sales and customer satisfaction.
 
 ## Visualizations
-![Supermarket-Analysis]()
-![Supermarket-Analysis]()
-Add screenshots of Excel dashboards, pivot tables, and charts here.
+![Supermarket-Analysis](dashh.PNG)
+![Supermarket-Analysis](pivot.PNG)
+
 
 ---

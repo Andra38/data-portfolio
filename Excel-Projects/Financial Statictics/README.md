@@ -10,7 +10,7 @@ This project demonstrates how Excel can be transformed into a powerful business 
 
 ### 1. Income Source Dashboard
 
-![Income Source Dashboard](incomesource.png)
+![Income Source Dashboard](income source.png)
 
 Provides an overview of revenue generated from different income streams including:
  
@@ -44,7 +44,7 @@ Key insights include:
 
 ### 3. Sales Process Dashboard
 
-![Sales Process Dashboard](salesprocess.png)
+![Sales Process Dashboard](sales process.png)
 
 Analyzes sales pipeline performance from lead generation to closed deals.
 

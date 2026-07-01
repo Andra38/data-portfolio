@@ -89,7 +89,7 @@ The dashboard focuses on answering key business questions such as:
 
 ## 📷 Dashboard Preview
 
-![Profit and Loss Dashboard](dashboard.png)
+![Profit and Loss Dashboard](olivia2.png)
 
 ---
 

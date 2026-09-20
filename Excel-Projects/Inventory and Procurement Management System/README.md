@@ -48,7 +48,7 @@ The Excel dashboard provides a centralized view of the business's inventory and 
 
 ### Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](procurementdashboard.png)
 
 > *Dashboard screenshot placeholder:* Replace images/dashboard.png with the path to your actual dashboard screenshot.
 

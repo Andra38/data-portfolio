@@ -58,20 +58,20 @@ The Excel dashboard provides a centralized view of the business's inventory and 
 
 ### Inventory Management
 
-![Inventory Management](images/inventory.png)
+![Inventory Management](Inventory.png)
 
 ### Procurement Analysis
 
-![Procurement Analysis](images/procurement.png)
+![Procurement Analysis](Procurement.png)
 
 
 ### Sales Analysis
 
-![Sales Analysis](images/sales-analysis.png)
+![Sales Analysis](Sales.png)
 
 ### Invoice
 
-![Invoice](invoice.png)
+![Invoice](Invoice.png)
 
 ---
 

@@ -71,7 +71,7 @@ The Excel dashboard provides a centralized view of the business's inventory and 
 
 ### Invoice
 
-![Invoice](Invoice.png)
+![Invoice](invoice.png)
 
 ---
 
